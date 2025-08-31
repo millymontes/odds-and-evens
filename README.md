@@ -9,7 +9,7 @@ The goal of this workshop is to create an app that allows a user to input a numb
 For this workshop, you'll be starting from scratch! You are highly encouraged to reference previous solutions. Write JS to build an application that meets the following requirements:
 
 - `index.html` is not modified. All elements are generated via JS.
-- The application contains a form that allows users to input a number.
+  - The application contains a form that allows users to input a number.
 - When the user clicks the "Add number" button, the number they entered into the input field should be added to the number bank.
 - The number bank should display all of the numbers that the user has entered.
 - When the "Sort 1" button is clicked, the first number in the number bank is removed and placed into either the odd or even category.
